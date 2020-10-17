@@ -116,5 +116,23 @@
 	font-family: Comic Sans MS, sans-serif;
 }
 
+.sea{
+	margin-left: 92%;
+	margin-top: -30%;
+	padding-top: -2px;
+}
 
+.btn-common{
+	border-radius: 20px;
+	background-color: #26ae61;
+	color: white;
+	margin-top: -22em;
+	margin-right: 52px;
+	margin-left: 18%;
+	/*margin-top: 100%;*/
+	/*margin-left: 20%;*/
+	/*margin-bottom: 10%;
+	position: relative;*/
+	/*padding-bottom: 10px;*/
+}
 /*http://localhost/PlanMyCareerHomepage/PlanMyCareerPage/index.html ---
