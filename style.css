@@ -135,4 +135,73 @@
 	position: relative;*/
 	/*padding-bottom: 10px;*/
 }
+
+.line{
+	margin-top: 6%;
+}
+
+
+.carr{
+	font-size: 30px;
+	position: relative;
+	font-weight: 100;
+	line-height: 5;
+	/*margin-left: 60%;*/
+}
+
+
+.fa-map-marker-alt {
+	/*padding-left:44%;*/
+	/*margin-left: 20%;*/
+	position: absolute;
+	margin-top: 5%;
+	padding-left: 1%;
+	font-size: 111%
+}
+
+.ma{
+	text-align: center;
+}
+
+.para{
+	color: #6b6969;
+	font-size: 14px;
+	line-height: 2%;
+	/*margin-bottom: 0;*/
+	font-family: rubik,sans-serif;
+	margin-top: -49px;
+}
+
+.sign{
+	color: grey;
+	line-height: 26px;
+	font-family: rubik,sans-serif;
+	font-size: 14px;
+}
+
+.imag{
+	margin-left: 102%;
+	height: 44%;
+	margin-top: -261px;
+}
+
+.line1{
+	margin-top: -28%;
+}
+
+.j{
+	margin-left: 48%;
+	margin-top:-265px;
+	font-size: 36px;
+	font-weight: 500;
+}
+
+.para2{
+	font-size: 14px;
+	color: #6b6969;
+	line-height: 26px;
+	font-family: rubik,sans-serif;
+	margin-left: 53%;
+	padding-top: 2%;
+}
 /*http://localhost/PlanMyCareerHomepage/PlanMyCareerPage/index.html ---
