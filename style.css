@@ -144,7 +144,7 @@
 .carr{
 	font-size: 30px;
 	position: relative;
-	font-weight: 100;
+	font-weight: 700;
 	line-height: 5;
 	/*margin-left: 60%;*/
 }
@@ -203,5 +203,9 @@
 	font-family: rubik,sans-serif;
 	margin-left: 53%;
 	padding-top: 2%;
+}
+
+.line2{
+	margin-top: 14%;
 }
 /*http://localhost/PlanMyCareerHomepage/PlanMyCareerPage/index.html ---
