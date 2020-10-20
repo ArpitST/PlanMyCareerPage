@@ -31,6 +31,7 @@
 .a{
 	font-size: 42px;
 	font-family: Comic Sans MS, sans-serif;
+	padding-left: 10%;
 }
 
 .aa{
@@ -38,6 +39,7 @@
 	font-size: 14px;
 	font-family: rubik, sans-serif;
 	margin-top: 4%;
+	padding-left: 10%;
 }
 
 .form-control{
@@ -50,10 +52,10 @@
 
 .fa-search{
 	right: 1px;
-	padding: 20px;
+	padding: 19px;
 	background-color: #26ae61;
 	border-radius: 27px;
-	top:257px;
+	top:272px;
 }
 
 .sm-3{
@@ -117,9 +119,8 @@
 }
 
 .sea{
-	margin-left: 92%;
-	margin-top: -30%;
-	padding-top: -2px;
+	margin-left: 251%;
+	margin-top: -81%;
 }
 
 .btn-common{
@@ -129,11 +130,6 @@
 	margin-top: -22em;
 	margin-right: 52px;
 	margin-left: 18%;
-	/*margin-top: 100%;*/
-	/*margin-left: 20%;*/
-	/*margin-bottom: 10%;
-	position: relative;*/
-	/*padding-bottom: 10px;*/
 }
 
 .line{
@@ -146,7 +142,6 @@
 	position: relative;
 	font-weight: 700;
 	line-height: 5;
-	/*margin-left: 60%;*/
 }
 
 
@@ -167,7 +162,6 @@
 	color: #6b6969;
 	font-size: 14px;
 	line-height: 2%;
-	/*margin-bottom: 0;*/
 	font-family: rubik,sans-serif;
 	margin-top: -49px;
 }
@@ -177,6 +171,7 @@
 	line-height: 26px;
 	font-family: rubik,sans-serif;
 	font-size: 14px;
+	margin-left:18%;
 }
 
 .imag{
@@ -221,5 +216,64 @@
 	width:75%;
 }
 
+/*.footer-Content{
+	padding-top: 60px;
+	padding-bottom: 60px; 
+	margin-top: 134px;
+	margin-left:-12%;
+	background-color: #24324a;
+}*/
+
+/*footer section start from here*/
+
+.section{
+	padding-top: 60px;
+	padding-right: 0px;
+	padding-bottom: 60px;
+	padding-left: 0px;
+}
+
+.bg-gray{
+	background-color: rgb(249, 252, 255);
+}
+
+
+.mobile{
+	width: 152%;
+	margin-left: -54%;
+}
+
+.download-wrapper{
+	width: 100%;
+	display: table;
+	height: 100%;
+}
+
+.download-wrapper .download-text h4{
+	font-size: 36px;
+	font-weight: 500;
+	margin-bottom: 33px;
+	margin-top: 10%;
+	font-family: Comic Sans MS, sans-serif;
+}
+
+.z{
+	color: #6b6969;
+	line-height: 26px;
+	font-family: rubik, sans-serif;
+	margin-top: 0;
+	margin-bottom: 35px;
+	font-size: 14px;
+}
+
+.img-fluid{
+	max-width: 100%;
+	height: auto;
+}
+
+.mobile{
+	width:159%;
+	margin-left: -43%;
+}
 
 /*http://localhost/PlanMyCareerHomepage/PlanMyCareerPage/index.html ---
