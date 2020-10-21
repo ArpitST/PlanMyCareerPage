@@ -249,12 +249,13 @@
 	height: 100%;
 }
 
-.download-wrapper .download-text h4{
+.download-text h4{
 	font-size: 36px;
 	font-weight: 500;
 	margin-bottom: 33px;
 	margin-top: 10%;
 	font-family: Comic Sans MS, sans-serif;
+	padding-left: 10%;
 }
 
 .z{
@@ -264,6 +265,7 @@
 	margin-top: 0;
 	margin-bottom: 35px;
 	font-size: 14px;
+	padding-left: 10%;
 }
 
 .img-fluid{
@@ -272,8 +274,26 @@
 }
 
 .mobile{
-	width:159%;
+	width:128%;
 	margin-left: -43%;
 }
 
+.block-title{
+	font-size: 20px;
+	font-weight: 500;
+	color: #fff;
+	margin-bottom: 20px;
+	position: relative;
+}
+
+.fa-linkedin{
+	background-color: #007bb5;
+	border-radius: 30px;
+	color: white;
+}
+
+
+.mt-3{
+	margin-top: 1rem!important;
+}
 /*http://localhost/PlanMyCareerHomepage/PlanMyCareerPage/index.html ---
