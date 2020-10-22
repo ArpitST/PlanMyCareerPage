@@ -1,3 +1,12 @@
+.nav-link:hover{
+	color: green;
+}
+.tad:hover{color: green;}
+
+.nav-item:hover{
+	color: green;
+}
+
 .dropdown-toggle{
 	color: white;																		
 }
@@ -11,6 +20,8 @@
 	background-color: #26ae61;
 	color: white;
 }
+
+
 
 .col-6{
 	color: #333;
@@ -35,11 +46,22 @@
 }
 
 .aa{
-	color: grey;
+	color: #6b6969;
 	font-size: 14px;
 	font-family: rubik, sans-serif;
 	margin-top: 4%;
-	padding-left: 10%;
+	/*padding-left: 10%;*/
+	margin-left:-2%;
+	line-height: 26px;
+}
+
+.aaa{
+	/*padding-left: 10%;*/
+	color: grey;
+	margin-left: 10%;
+	font-size: 14px;
+	font-family: rubiks, sans-serif;
+	margin-top: 4%;
 }
 
 .form-control{
@@ -142,6 +164,8 @@
 	position: relative;
 	font-weight: 700;
 	line-height: 5;
+	font-family: rubik, sans-serif;
+	color: #333;
 }
 
 
@@ -151,7 +175,7 @@
 	position: absolute;
 	margin-top: 5%;
 	padding-left: 1%;
-	font-size: 111%
+	font-size: 81%;
 }
 
 .ma{
@@ -209,6 +233,7 @@
 	font-size: 14px;
 	color: #6b6969;
 	line-height: 2px;
+	text-align: center;
 }
 
 .inner{
@@ -296,5 +321,19 @@
 .mt-3{
 	margin-top: 1rem!important;
 	/*list-style-type: none;*/
+}
+
+.carousel-indicators{
+	position: absolute;
+	right: 0;
+	bottom: -50px;
+	left:0;
+	z-index: 15;
+	display: flex;
+	justify-content: center;
+	padding-left: 0;
+	margin-right: 15%;
+	margin-left: 15%;
+
 }
 /*http://localhost/PlanMyCareerHomepage/PlanMyCareerPage/index.html ---
