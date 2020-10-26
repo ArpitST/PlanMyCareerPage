@@ -1,3 +1,95 @@
+.navbar .navi{
+	
+	color: #26ae61;
+	font-size: 14px;
+	padding-left: 2%;
+}
+
+.navbar-nav .nav-item .qq{color: #f8f9fa;}
+
+
+.browse-cate{
+	text-align: center;
+}
+
+.cf{
+	overflow-x: hidden;
+}
+
+.topp{
+	margin-left: 10%;
+	margin-bottom: 1rem;
+}
+.md-7 tj{
+	margin-top: 20%;
+	font-weight: 500;
+	font-size: 36px;
+	margin-right: 10%;
+}
+
+.images{
+	display: flex;
+	flex-wrap: wrap;
+	margin-right: -15px; 
+	margin-left: 54px;
+}
+
+.images2{
+	display: flex; 
+	flex-wrap: wrap; 
+	margin-right: -15px; 
+	margin-left: 54px;
+}
+
+.mo{
+	padding-left: 581px;
+}
+
+.arr{
+	color: black;
+}
+
+.end{
+	text-align: center;
+}
+.tj{
+	margin-top: 20%;
+	font-weight: 500; 
+	font-size: 36px; 
+	margin-right: 10%;
+}
+
+.caree{
+	margin-left: 32%; 
+	margin-top: -40%;
+}
+
+.emp{
+	position: relative; 
+	margin-bottom: 1rem; 
+	padding-left: 21px; 
+	margin-right: 72px;
+}
+
+.eemail{
+	border-radius: 30px; 
+	color: #fff; 
+	border:1px solid; 
+	padding-top: 8px; 
+	margin-left: 50px; 
+	width: 81% !important;
+}
+
+.env{
+	position: absolute; 
+	color: white; 
+	background-color: green; 
+	padding:11px; 
+	bottom:0px; 
+	right:9px; 
+	border-top-right-radius: 16px; 
+	border-bottom-right-radius: 16px;
+}
 body::-webkit-scrollbar{
 	width: 9px;
 
@@ -8,10 +100,29 @@ body::-webkit-scrollbar-track {
 	box-shadow: inset 0 0 2.5px 2px rgba(0,0,0,0.5);
 }
 
+.uni{
+
+	display: flex; 
+	flex-wrap: wrap;
+	margin-right: -15px; 
+	margin-left: 54px;
+}
+
 body::-webkit-scrollbar-thumb{
 	background: green;
 	border-radius: 10px;
 	color: white;
+}
+.my
+{
+	color: green; 
+	font-size: 14px; 
+	padding-left: 2%;
+}
+.logo
+{
+	height:50px ;
+	max-width:100%;
 }
 /*till here scroll bar color available*/
 .nav-link:hover{
@@ -61,6 +172,7 @@ body::-webkit-scrollbar-thumb{
 	padding-left: 10%;
 }
 
+
 .aa{
 	color: #6b6969;
 	font-size: 14px;
@@ -94,6 +206,10 @@ body::-webkit-scrollbar-thumb{
 	background-color: #26ae61;
 	border-radius: 27px;
 	top:272px;
+}
+
+.ar{
+	 color: #f8f9fa;
 }
 
 .sm-3{
@@ -156,9 +272,14 @@ body::-webkit-scrollbar-thumb{
 	font-family: Comic Sans MS, sans-serif;
 }
 
-.sea{
+/*.sea{
 	margin-left: 251%;
 	margin-top: -81%;
+}*/
+
+.mag{
+	margin-left: -22%;
+	padding-top: 12%;
 }
 
 .btn-common{
@@ -184,7 +305,51 @@ body::-webkit-scrollbar-thumb{
 	color: #333;
 }
 
+.caree{
+	margin-left: 118%;
+	margin-top: -40%;
+	border-radius: 24px;
+	font-size: 14px;
+	margin-left: 239px;
+}
 
+.suss{
+	margin-top: 8%; 
+	font-weight: 500; 
+	font-size: 36px; 
+	padding-left: 17%; 
+	margin-bottom: 30px;
+}
+
+.sea{
+	margin-bottom: -386px;
+	margin-left: 41%;
+}
+
+.spec{
+	height:50%;
+	margin-left:-654px; 
+	padding-top:5%;
+}
+
+.searchjob{
+	margin-bottom: -41%; 
+	margin-left: 70%;
+}
+
+.schoool{
+	margin-top:5%;
+	margin-left: 46%; 
+	width: 50%; 
+	height: auto;
+}
+
+.schoolse{
+	margin-right: 57%;
+	margin-top: -281px; 
+	font-size: 36px; 
+	font-weight: 100;
+}
 .fa-map-marker-alt {
 	/*padding-left:44%;*/
 	/*margin-left: 20%;*/
@@ -215,9 +380,9 @@ body::-webkit-scrollbar-thumb{
 }
 
 .imag{
-	margin-left: 102%;
-	height: 44%;
-	margin-top: -261px;
+	margin-left: -14%;
+	height: 48%;
+	margin-top: 19px;
 }
 
 .line1{
@@ -352,4 +517,303 @@ body::-webkit-scrollbar-thumb{
 	margin-left: 15%;
 
 }
+
+.para3{
+	font-size: 14px;
+	color: grey;
+	margin-top: 42px; 
+	margin-right: 62%; 
+	padding-left:10%;
+	line-height: 26px;
+	font-family:rubik, Sans-Serif;
+}
+
+.hori{
+	margin-top: 10rem; 
+	margin-bottom: 1rem;"
+}
+
+.schoolsearch{
+	margin-bottom: -41%; 
+	margin-left: 16%;"
+}
+
+.let{
+	font-weight: 700; 
+	font-size:30px; 
+	padding-top: 3%; 
+	margin-left: 39%;
+}
+
+.notes{
+	font-size: 42px; 
+	margin-left: 135px; 
+	margin-top: 22%; 
+	color: green;
+}
+
+.resu{
+	font-size: 19px;
+	margin-left: 24%;
+	margin-bottom: 2%; 
+	padding-top: 2%;
+}
+
+.createre{
+	font-size: 14px; 
+	color: #6b6969; 
+	margin-left: 15%; 
+	margin-top: 10px; 
+	font-family: rubik, 
+	Sans-Serif; line-height: 2%;
+}
+
+.cir{
+	font-size: 42px;
+	margin-left: 128px; 
+	margin-top: 21%; 
+	color: green;
+}
+
+.inti{
+	font-size: 20px;
+	margin-left: 19%;
+	margin-top: 3%;
+}
+
+.prac{
+	font-size: 14px; 
+	color: #6b6969; 
+	margin-left: 8%; 
+	line-height: 20px; 
+	font-family: rubik, Sans-Serif; 
+	margin-bottom: 0;
+}
+
+.micro{
+	font-size: 42px; 
+	margin-left: 128px; 
+	margin-top: 21%; 
+	color: green;
+}
+
+.voice{
+	font-size: 20px;
+	margin-left: 19%; 
+	margin-top: 3%;
+}
+
+.dis{
+	font-size: 14px;
+	color: #6b6969;
+	margin-left: 8%;
+	line-height: 20px;
+	font-family: rubik, Sans-Serif;
+	margin-bottom: 0;
+}
+
+.hori2{
+	margin-top: 4rem;
+	margin-bottom: 1rem;
+}
+
+.quo{
+	font-weight: 700; 
+	font-size:30px; 
+	padding-top: 4%; 
+	margin-left: 49%; 
+	padding-bottom: 2%;
+}
+
+.carousel-indicators li{
+	background-color: blue;
+}
+
+.slide1{
+	margin-bottom: -5px;
+	margin-top: 0%;
+}
+
+.sha{
+	width: 730px;
+	margin-left: 302px;
+}
+
+.kim{
+	max-width: 70px; 
+	margin-left: 313px;
+}
+
+.but{
+	margin-left: 10%; 
+	height: 69px; 
+	background-color: white; 
+	color: green;
+}
+
+.mo{
+	margin-left: 10%;
+}
+
+.goo{
+	margin-left: 10%;
+	padding-left: 10%;
+}
+
+.mobile{
+	width: 128%; 
+	margin-left: -43%;
+}
+
+.foot{
+	background-color: #24324a; 
+	margin-left: -2%; 
+	padding-top: 5%;
+}
+
+.pmc2{
+	height: 46px;
+	margin-top: 4%;
+	margin-left: 15%;
+}
+
+.k{
+	font-size: 14px; 
+	color: #8a99b3; 
+	padding-left: 16%; 
+	margin-top: 2%;
+}
+
+.bot{
+	line-height: 166%;
+}
+
+.bott{
+	list-style-type: none; 
+	color: #8a99b3;
+	font-size: 14px;
+	margin-left: -10%; 
+	font-family: Comic Sans MS, sans-serif;
+}
+
+.jk{
+	margin-left: -57%;
+	margin-top: 15%;
+}
+
+.ter{
+	list-style-type: none; 
+	color: #8a99b3; 
+	font-size: 14px; 
+	margin-left: -10%; 
+	font-family: Comic Sans MS, sans-serif; 
+	line-height: 210%;
+	margin-top: -3%;
+}
+
+.pri{
+	list-style-type: none; 
+	color: #8a99b3; 
+	font-size: 14px; 
+	margin-left: -10%; 
+	font-family: Comic Sans MS, sans-serif;
+}
+
+.reff{
+	list-style-type: none;
+	color: #8a99b3; 
+	font-size: 14px; 
+	margin-left: -10%; 
+	font-family: Comic Sans MS, sans-serif; 
+	line-height: 197%;
+}
+
+.prod{
+	list-style-type: none;
+	color: #8a99b3; 
+	font-size: 14px; 
+	margin-left: -10%; 
+	font-family: Comic Sans MS, sans-serif;
+}
+
+.sub{
+	padding-left: 20%;
+	margin-top: -40%; 
+	font-size: 20px; 
+	font-weight: 500; 
+	position: relative; 
+	color: white;
+}
+
+.subsc{
+	color: #8a99b3;
+	padding-left: 20%; 
+	font-size: 14px;
+}
+
+.soci{
+	list-style-type: none;
+}
+
+.socioic{
+	margin-left: 12%;
+}
+
+
+.linki{
+	color: white; 
+	background-color: blue; 
+	border-radius: 100px; 
+	padding: 10px;
+}
+
+.face{
+	border-radius: 100px; 
+	background-color: blue; 
+	padding: 10px; 
+	margin-left: 3%; 
+	color: white;
+}
+
+.twit{
+	font-size: 16px;
+	margin-left: 2%; 
+	background-color: #17a2b8;
+	color: #eff3f7; 
+	border-radius: 220%;
+	padding: 10px;
+}
+
+.pluss{
+	font-size:26px;
+	color:#dc0f0f; 
+	margin-left: 4%; 
+	background-color: #edf0f5; 
+	border-radius: 100px;
+}
+
+
+.back{
+	background-color: #26ae61;
+	max-width: 100%;
+}
+
+.fi{
+	text-align: center;
+}
+
+.copy{
+	line-height: 34px;
+	color: #fff;
+	font-size: 14px;
+	font-family:rubik, sans-serif;
+	margin-bottom: 21px;
+	margin-top: 1%;
+}
+
+.len{
+	width: 100%;
+	margin-left: 0%;
+}
 /*http://localhost/PlanMyCareerHomepage/PlanMyCareerPage/index.html ---
+
