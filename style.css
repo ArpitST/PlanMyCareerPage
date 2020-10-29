@@ -16,10 +16,10 @@
 	overflow-x: hidden;
 }
 
-.topp{
+/*.topp{
 	margin-left: 10%;
 	margin-bottom: 1rem;
-}
+}*/
 .md-7 tj{
 	margin-top: 20%;
 	font-weight: 500;
@@ -27,23 +27,40 @@
 	margin-right: 10%;
 }
 
-.images{
-	display: flex;
-	flex-wrap: wrap;
-	margin-right: -15px; 
-	margin-left: 54px;
+
+.catimage{
+	border-color: #f1f1f1;
+	border:1px solid;
+	margin-right: -31px;
+	padding-left: 10px;
+	text-align: center;
+
 }
 
-.images2{
+.catimage img{
+	/*max-width: 100px;*/
+	margin-top: 70px;
+	max-width: 25%;
+	
+}
+
+.plan input{
+	max-width: 75%;
+    border: 1px solid #4aaf61;
+    border-radius: 20px;
+}
+
+/*.bor{
+	max-width: 25%;
+	border:1px solid;
+	border-color: #f1f1f1;
+}*/
+/*.images2{
 	display: flex; 
 	flex-wrap: wrap; 
 	margin-right: -15px; 
 	margin-left: 54px;
-}
-
-.mo{
-	padding-left: 581px;
-}
+}*/
 
 .arr{
 	color: black;
@@ -64,32 +81,36 @@
 	margin-top: -40%;
 }
 
-.emp{
+/*.emp{
 	position: relative; 
 	margin-bottom: 1rem; 
 	padding-left: 21px; 
 	margin-right: 72px;
-}
+}*/
 
 .eemail{
-	border-radius: 30px; 
-	color: #fff; 
-	border:1px solid; 
-	padding-top: 8px; 
-	margin-left: 50px; 
-	width: 81% !important;
+	max-width: 60%;
+	margin-left: 83px;
+	background-color: #24324a;
+	    border: 1px solid #4aaf61;
+    border-radius: 21px;
+    margin-top: 20px;
+    position: relative;
+
 }
 
 .env{
 	position: absolute; 
-	color: white; 
-	background-color: green; 
-	padding:11px; 
-	bottom:0px; 
-	right:9px; 
-	border-top-right-radius: 16px; 
-	border-bottom-right-radius: 16px;
+	right: 98px;
+    bottom: 69px;
+    color: white;
+    background-color: #4aaf61;
+    padding: 10px;
+    border-top-right-radius: 15px;
+    border-bottom-right-radius: 15px;
 }
+
+
 body::-webkit-scrollbar{
 	width: 9px;
 
@@ -169,7 +190,8 @@ body::-webkit-scrollbar-thumb{
 .a{
 	font-size: 42px;
 	font-family: Comic Sans MS, sans-serif;
-	padding-left: 10%;
+	/*padding-left: 10%;*/
+	font-weight: 700;
 }
 
 
@@ -186,26 +208,30 @@ body::-webkit-scrollbar-thumb{
 .aaa{
 	/*padding-left: 10%;*/
 	color: grey;
-	margin-left: 10%;
+	/*margin-left: 10%;*/
+	margin-left: 0%;
 	font-size: 14px;
 	font-family: rubiks, sans-serif;
 	margin-top: 4%;
 }
 
-.form-control{
+/*.form-control{
 	border-radius: 30px;
 	border-color: #26ae61;
 	width: 89%;
 	margin-bottom: 16%;
 	margin-top: 6%;
+	margin-left: -63px;
 }
-
+*/
 .fa-search{
-	right: 1px;
-	padding: 19px;
+	/*padding: 19px;*/
+	padding:9px;
 	background-color: #26ae61;
 	border-radius: 27px;
-	top:272px;
+	color: white;
+	bottom: 82px;
+	right: 115px;
 }
 
 .ar{
@@ -222,7 +248,7 @@ body::-webkit-scrollbar-thumb{
 }
 
 .si{
-	margin-top:25px;
+	margin-top:39px;
 	width: 97%;
 }
 
@@ -232,18 +258,15 @@ body::-webkit-scrollbar-thumb{
 	font-family: rubiks, sans-serif;
 	font-weight: 700;
 	position: relative;
+	margin-top: 71px;
 }
 
 .siii{
 	color: grey;
 	line-height:2px; 
+	margin-bottom: 80px;
 }  
 
-.catimage img{
-	height: 90px;
-	margin-left: 14%;
-	margin-top: 30%;
-}
 
 .coll{
 	height: 10%;
@@ -256,13 +279,12 @@ body::-webkit-scrollbar-thumb{
 	font-family: Comic Sans MS, sans-serif;
 	color: #333;
 	font-weight: 700;
-	margin-left: 16%;
 	margin-top: 2%;
 }
 
 .s img{
-	margin-left: 16%;
-	padding-top: 12%;
+	margin-left: 341px;
+	margin-top: -208px;
 }
 
 .text{
@@ -270,8 +292,13 @@ body::-webkit-scrollbar-thumb{
 	color: green;
 	font-size: 20px;
 	font-family: Comic Sans MS, sans-serif;
+	margin-top: 3%;
 }
 
+.arrow{
+	margin-left: 1%;
+	font-size: 16px;
+}
 /*.sea{
 	margin-left: 251%;
 	margin-top: -81%;
@@ -293,6 +320,8 @@ body::-webkit-scrollbar-thumb{
 
 .line{
 	margin-top: 6%;
+	margin-left: -9%;
+	margin-right: -8%;
 }
 
 
@@ -314,16 +343,21 @@ body::-webkit-scrollbar-thumb{
 }
 
 .suss{
-	margin-top: 8%; 
+	/*margin-top: 8%; */
+	margin-top: 18%; 
 	font-weight: 500; 
 	font-size: 36px; 
-	padding-left: 17%; 
+	/*padding-left: 17%; */
+	padding-left: 4%; 
 	margin-bottom: 30px;
+	text-align: center;
 }
 
 .sea{
-	margin-bottom: -386px;
-	margin-left: 41%;
+	/*margin-bottom: -386px;
+	margin-left: 41%;*/
+	margin-top: 38px;
+	margin-left: 247px;
 }
 
 .spec{
@@ -349,6 +383,7 @@ body::-webkit-scrollbar-thumb{
 	margin-top: -281px; 
 	font-size: 36px; 
 	font-weight: 100;
+	text-align: center;
 }
 .fa-map-marker-alt {
 	/*padding-left:44%;*/
@@ -376,7 +411,9 @@ body::-webkit-scrollbar-thumb{
 	line-height: 26px;
 	font-family: rubik,sans-serif;
 	font-size: 14px;
-	margin-left:18%;
+	/*margin-left:18%;*/
+	margin-left:5%;
+	text-align: center; /*this line is added by me*/
 }
 
 .imag{
@@ -387,6 +424,10 @@ body::-webkit-scrollbar-thumb{
 
 .line1{
 	margin-top: -28%;
+
+	size: 100px;
+	margin-left: -90px;
+	margin-right: -8%;
 }
 
 .j{
@@ -406,11 +447,15 @@ body::-webkit-scrollbar-thumb{
 }
 
 .line2{
-	margin-top: 14%;
+	/*margin-top: 14%;*/
+	margin-top: 17%;
+	margin-right: -94px;
+	margin-left: -94px;
 }
 
 .e{
-	margin-left: 15%;
+	/*margin-left: 15%;*/
+	margin-left: 1%;
 	font-size: 14px;
 	color: #6b6969;
 	line-height: 2px;
@@ -522,27 +567,35 @@ body::-webkit-scrollbar-thumb{
 	font-size: 14px;
 	color: grey;
 	margin-top: 42px; 
-	margin-right: 62%; 
+	margin-right: 62%;
+	margin-left: -57px; 
 	padding-left:10%;
 	line-height: 26px;
 	font-family:rubik, Sans-Serif;
+	text-align: center;
 }
 
 .hori{
 	margin-top: 10rem; 
-	margin-bottom: 1rem;"
+	/*margin-bottom: 1rem;*/
+	margin-left: -94px;
+	margin-right: -8%;
 }
 
 .schoolsearch{
-	margin-bottom: -41%; 
-	margin-left: 16%;"
+	/*margin-bottom: -41%; 
+	margin-left: 145px;*/
+	margin-top: 10px;
+	margin-left: 142px;
 }
 
 .let{
 	font-weight: 700; 
 	font-size:30px; 
-	padding-top: 3%; 
-	margin-left: 39%;
+	padding-top: 6%;
+	margin-left: 33%;
+	/*padding-top: 3%; 
+	margin-left: 39%;*/
 }
 
 .notes{
@@ -563,9 +616,10 @@ body::-webkit-scrollbar-thumb{
 	font-size: 14px; 
 	color: #6b6969; 
 	margin-left: 15%; 
-	margin-top: 10px; 
-	font-family: rubik, 
-	Sans-Serif; line-height: 2%;
+	/*margin-top: 10px; */
+	margin-top: 23px; 
+	font-family: rubik,Sans-Serif; 
+	line-height: 2%;
 }
 
 .cir{
@@ -582,12 +636,14 @@ body::-webkit-scrollbar-thumb{
 }
 
 .prac{
-	font-size: 14px; 
+	/*font-size: 14px; */
+	font-size: 15px; 
 	color: #6b6969; 
-	margin-left: 8%; 
+	/*margin-left: 8%; */
 	line-height: 20px; 
 	font-family: rubik, Sans-Serif; 
 	margin-bottom: 0;
+	text-align: center;
 }
 
 .micro{
@@ -615,13 +671,17 @@ body::-webkit-scrollbar-thumb{
 .hori2{
 	margin-top: 4rem;
 	margin-bottom: 1rem;
+	/*below lines are added*/
+	margin-left: -94px;
+	margin-right: -94px;
 }
 
 .quo{
 	font-weight: 700; 
 	font-size:30px; 
 	padding-top: 4%; 
-	margin-left: 49%; 
+	/*margin-left: 49%; */
+	text-align: center;
 	padding-bottom: 2%;
 }
 
@@ -636,12 +696,14 @@ body::-webkit-scrollbar-thumb{
 
 .sha{
 	width: 730px;
-	margin-left: 302px;
+	/*margin-left: 302px;*/
+	margin-left: 187px;
 }
 
 .kim{
 	max-width: 70px; 
 	margin-left: 313px;
+	/*margin-left: 206px;*/
 }
 
 .but{
@@ -767,12 +829,14 @@ body::-webkit-scrollbar-thumb{
 	padding: 10px;
 }
 
-.face{
-	border-radius: 100px; 
-	background-color: blue; 
-	padding: 10px; 
-	margin-left: 3%; 
+.fa-facebook-f{
 	color: white;
+    background-color: blue;
+    padding: 9px;
+    border-radius: 100px;
+    margin-left: 10px;
+    padding-left: 11px;
+    padding-right: 11px;
 }
 
 .twit{
@@ -784,18 +848,22 @@ body::-webkit-scrollbar-thumb{
 	padding: 10px;
 }
 
-.pluss{
-	font-size:26px;
-	color:#dc0f0f; 
-	margin-left: 4%; 
-	background-color: #edf0f5; 
-	border-radius: 100px;
-}
 
+.fa-google-plus-g{
+	    color: white;
+    background-color: red;
+    border-radius: 100px;
+    padding: 10px;
+    margin-left: 10px;
+    padding-left: 9px;
+    padding-right: 9px;
+}
 
 .back{
 	background-color: #26ae61;
-	max-width: 100%;
+	 color: white;
+	 text-align: center;
+	 overflow-x: hidden;
 }
 
 .fi{
@@ -803,17 +871,29 @@ body::-webkit-scrollbar-thumb{
 }
 
 .copy{
-	line-height: 34px;
-	color: #fff;
-	font-size: 14px;
-	font-family:rubik, sans-serif;
-	margin-bottom: 21px;
-	margin-top: 1%;
+	margin-top: 22px;
 }
 
-.len{
+/*.len{
 	width: 100%;
 	margin-left: 0%;
+}*/
+
+
+.wi{
+	background-color: rgb(249, 252, 255);
 }
+
+
+.backcolor{
+	background-color: #24324a;
+}
+
+.backcolor2{
+	background-color: #26ae61
+}
+
+
+
 /*http://localhost/PlanMyCareerHomepage/PlanMyCareerPage/index.html ---
 
